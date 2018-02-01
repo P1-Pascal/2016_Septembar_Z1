@@ -1,0 +1,6 @@
+Ovo je ulazna datoteka. Sifra je 25 26 39
+Ovo su neki brojevi koje ne treba prepisati 12 350 46
+Iznad je prazna linija 2 (dva).
+Ovo je kraj ulaza.
+Ipak ne 20 21 30 36 2123 434 19 18 38 itd.
+24 sad je stvarno kraj.
